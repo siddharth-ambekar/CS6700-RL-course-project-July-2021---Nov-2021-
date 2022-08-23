@@ -1,0 +1,6 @@
+aicrowd-gym
+tqdm
+numpy
+-e ./gym-bellman
+sklearn
+scipy
